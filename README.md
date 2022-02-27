@@ -36,6 +36,7 @@ Stop the pawn with your king, take the opposition when possible if adverse king 
 ### Evans Gambit
 
 - [[Aga] Bobby Fischer's Amazing 17 moves Victory in the Evans Gambit](https://www.youtube.com/watch?v=UYu_maf9oNY)
+- [Débutant à Maître | Course d'échecs | 1420 | Grand maître Naroditsky](https://www.youtube.com/watch?v=wn7jKtpg2dg)
 
 ## Black
 
