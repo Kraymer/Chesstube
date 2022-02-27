@@ -35,7 +35,7 @@ Stop the pawn with your king, take the opposition when possible if adverse king 
 
 ### Evans Gambit
 
-- [Bobby Fischer's Amazing 17 moves Victory in the Evans Gambit](https://www.youtube.com/watch?v=UYu_maf9oNY)
+- [[Aga] Bobby Fischer's Amazing 17 moves Victory in the Evans Gambit](https://www.youtube.com/watch?v=UYu_maf9oNY)
 
 ## Black
 
