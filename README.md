@@ -1,6 +1,6 @@
 # Theory
 
-## Finals
+## Finals
 
 ### Bishops
 
@@ -40,7 +40,7 @@ Stop the pawn with your king, take the opposition when possible if adverse king 
 - [Master Class | Caro–Kann x2!! | Chess Speedrun | Grandmaster Naroditsky](https://www.youtube.com/watch?v=kO4qTTR0B7o)
 - [Master Class | Caro–Kann | Chess Speedrun | Grandmaster Naroditsky](https://www.youtube.com/watch?v=4GIsh7cTsHc)
 - [Parties pédagogiques](https://www.youtube.com/watch?v=-Yfwzsg32Pk)
-- 
+
 #### Panov Attack
 
 - [Master Class | Panov Attack (Caro–Kann) | Chess Speedrun | Grandmaster Naroditsky](https://www.youtube.com/watch?v=KV90PAgPO2A)
