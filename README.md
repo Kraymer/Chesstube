@@ -1,7 +1,37 @@
-# Chesstube
-Youtube videos about my chess openings repertoire
+# Theory
+
+## Finals
+
+### Bishops
+
+#### Same colors
+
+Drawish
+
+### Opposite colors
+
+Advantage to the attacker.
+
+### Pawns
+
+#### Converting one pawn up
+
+Bring your king in front of the pawn, put it on a "T" square.
+
+#### Defending one pawn down
+
+Stop the pawn with your king, take the opposition when possible if adverse king try to infiltrate or stay in front of the pawn (same column).
+
+
+# Videos
 
 ## White
+
+### Scotch
+
+- [Intro to scotch gambit](https://www.youtube.com/watch?v=jgjnuHeTVsM)
+- [Réfuter le gambit Stafford](https://www.youtube.com/watch?v=aSGkNdsye3c)
+- [Ecossaise en 30 minutes](https://www.youtube.com/watch?v=Zj3SeQiiibo&t=3s)
 
 ## Black
 
