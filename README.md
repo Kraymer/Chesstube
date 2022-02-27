@@ -33,6 +33,10 @@ Stop the pawn with your king, take the opposition when possible if adverse king 
 - [Réfuter le gambit Stafford](https://www.youtube.com/watch?v=aSGkNdsye3c)
 - [Ecossaise en 30 minutes](https://www.youtube.com/watch?v=Zj3SeQiiibo&t=3s)
 
+### Evans Gambit
+
+- [Bobby Fischer's Amazing 17 moves Victory in the Evans Gambit](https://www.youtube.com/watch?v=UYu_maf9oNY)
+
 ## Black
 
 ### Caro-Kann
