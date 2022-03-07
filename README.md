@@ -1,9 +1,10 @@
 # Placement
 
-# Knights
+## Knights
 
-Don't exchange when opponent has 2 knights for one good square.
-Kinght on columns B and G are weaks and can be attacked by pawns on wings
+- Horses should target outposts which are squares immune of attacks (no neighbouring adverse pawns), usually on the 5th row to dominate opposite side of the board
+- Don't exchange when opponent has 2 knights for one good square.
+- Kinght on columns B and G are weaks and can be attacked by pawns on wings
 
 ## Finals 
 
@@ -36,7 +37,15 @@ Stop the pawn with your king, take the opposition when possible if adverse king 
 
 - [Intro to scotch gambit](https://www.youtube.com/watch?v=jgjnuHeTVsM)
 - [Réfuter le gambit Stafford](https://www.youtube.com/watch?v=aSGkNdsye3c)
-- [Ecossaise en 30 minutes](https://www.youtube.com/watch?v=Zj3SeQiiibo&t=3s)
+- [Ecossaise en 30 minutes](https://www.youtube.com/watch?v=Zj3SeQiiibo)
+- Parties référence: 
+  - [Master Class | The Scotch Game | Chess Speedrun | Naroditsky](https://www.youtube.com/watch?v=Y-a6cV08zDM)
+  - [Beginner To Master | Chess Speedrun | Scotch Game | Grandmaster Naroditsky](https://www.youtube.com/watch?v=OE2pJpVVzYw)
+
+#### Scotch Gambit
+
+- Parties référence: 
+  - [Scotch Gambit, amazing endgame](https://www.youtube.com/watch?v=NqtT3roFaBs)
 
 ### Evans Gambit
 
