@@ -1,6 +1,11 @@
-# Theory
+# Placement
 
-## Finals
+# Knights
+
+Don't exchange when opponent has 2 knights for one good square.
+Kinght on columns B and G are weaks and can be attacked by pawns on wings
+
+## Finals 
 
 ### Bishops
 
